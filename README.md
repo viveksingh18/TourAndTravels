@@ -1,2 +1,2 @@
-# TourAndTravels
-Tour and Travels project made in C++.
+# tour-and-travels-
+Toura and Travels project made un C++.
